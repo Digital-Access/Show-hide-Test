@@ -1,7 +1,7 @@
 const config = {
     title: "Inform your content with qualitative data",
     question: "There are several tools you can use to understand which content your audience is actively engaging with.",
-    image_on: true,
+    image_on: false,
     image: "https://a.storyblok.com/f/112136/373x445/175f800354/lucia-8.png",
     selection_title: "Select the tool name below to see how:",
     selection_options: [
