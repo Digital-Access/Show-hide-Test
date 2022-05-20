@@ -8,27 +8,35 @@ const config = {
         "Buzzsumo",
         "Mentionlytics",
         "Audiense",
-        "Google Trends"
+        "Google Trends",
+        "test1",
+        "test2"
     ],
     answer_options: [
-        "",
+        "Test text",
         "Useful for monitoring your own content for measurement and benchmarking.",
         "A great Twitter tool to monitor trends, build and segment lists of key users, monitor content performance and more.",
-        "Can show you how many people are talking about a topic. You can cross reference it with Reddit, Quora or a social media platform to validate the data and make a call on how impactful that content is."
+        "Can show you how many people are talking about a topic. You can cross reference it with Reddit, Quora or a social media platform to validate the data and make a call on how impactful that content is.",
+        "test text 1",
+        "test text 2"
     ],
     answer_background_colour: "rgba(37, 81, 123, 0.5)",
     answer_font_colour: "white",
     big_answer_image: [
-        "https://a.storyblok.com/f/112136/1001x354/be5144572e/aware.png",
-        "https://a.storyblok.com/f/112136/446x446/3ea9d4491c/2.png",
-        "https://a.storyblok.com/f/112136/446x446/1cadc0e6c3/3.png",
-        "https://a.storyblok.com/f/112136/446x446/0c7f465cc6/4.png",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
     ],
     small_answer_image: [
         "",
-        "https://a.storyblok.com/f/112136/446x446/3ea9d4491c/2.png",
-        "https://a.storyblok.com/f/112136/446x446/1cadc0e6c3/3.png",
-        "https://a.storyblok.com/f/112136/446x446/0c7f465cc6/4.png",
+        "",
+        "",
+        "",
+        "",
+        ""
     ],
     background_colour: "rgba(37, 81, 123, 1)",
     background_image: "https://a.storyblok.com/f/112136/1920x1409/5ba98e7f92/texture-bg-5efdcf3715f790-74747584-606d864d1b22d1-55861802.jpg",
