@@ -1,24 +1,24 @@
 const config = {
-    title: "Inform your content with qualitative data",
-    question: "There are several tools you can use to understand which content your audience is actively engaging with.",
+    title: "How to use your KIT:",
+    question: "1. Make it knowledgeable",
     image_on: false,
     image: "https://a.storyblok.com/f/112136/373x445/175f800354/lucia-8.png",
-    selection_title: "Select the tool name below to see how:",
+    selection_title: "Click on each bullet below to find out more about each one.",
     selection_options: [
-        "Buzzsumo",
-        "Mentionlytics",
-        "Audiense",
-        "Google Trends",
-        "test1",
-        "test2"
+        "Put your main point first",
+        "Back up your point with facts",
+        "Use subheadings",
+        "Use straightforward language",
+        "Use the active voice, not the passive",
+        "Avoid abstract language and jargon"
     ],
     answer_options: [
-        "Test text",
-        "Useful for monitoring your own content for measurement and benchmarking.",
-        "A great Twitter tool to monitor trends, build and segment lists of key users, monitor content performance and more.",
-        "Can show you how many people are talking about a topic. You can cross reference it with Reddit, Quora or a social media platform to validate the data and make a call on how impactful that content is.",
-        "test text 1",
-        "test text 2"
+        "If they read nothing else, they'll almost certainly read the first part. So make sure your most important info (who, what, why and how) is placed first.",
+        "Whenever you make a claim, back it up with evidence. This might be as easy as explaining the thinking behind a decision.",
+        "Use subheadings that summarise your content to make it scannable but still understandable.",
+        "Write the way you speak – if you wouldn't say it, don't write it.",
+        "Put the subject of the sentence first.",
+        "Simplify your sentences and consider your audience's level of understanding."
     ],
     answer_background_colour: "rgba(37, 81, 123, 0.5)",
     answer_font_colour: "white",
